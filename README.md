@@ -20,12 +20,10 @@ This will install all the dependencies listed in the `package.json` file.
 ## Starting the Project
 
  ```bash
-    npm start dev 
-    ```
-
+    npm run dev 
+  ```
 ## Running the JSON Server
 
  ```bash
-    npm start server
-    ```
-
+    npm run server 
+  ```

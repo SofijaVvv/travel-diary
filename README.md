@@ -1,8 +1,31 @@
-# React + Vite
+# Travel diary (React + Vite project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application for tracking countries and cites you treveled to.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Installation](#installation)
+- [Starting the Project](#starting-the-project)
+- [Running the JSON Server](#running-the-json-server)
+
+## Installation
+
+1. Install the required packages:
+
+    ```bash
+    npm install
+    ```
+This will install all the dependencies listed in the `package.json` file.
+
+## Starting the Project
+
+ ```bash
+    npm start dev 
+    ```
+
+## Running the JSON Server
+
+ ```bash
+    npm start server
+    ```
+

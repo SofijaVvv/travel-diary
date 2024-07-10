@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "24fd",
+      "cityName": "La Celle-Dunoise",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-08T14:05:58.109Z",
+      "notes": "",
+      "position": {
+        "lat": "46.30140615437332",
+        "lng": "1.77978515625"
+      }
+    },
+    {
+      "id": "3bc0",
+      "cityName": "Valletta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2024-07-08T15:03:18.519Z",
+      "notes": "",
+      "position": {
+        "lat": "35.897533022865055",
+        "lng": "14.513797760009767"
+      }
+    },
+    {
+      "id": "96dd",
+      "cityName": "Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2024-07-08T16:29:24.677Z",
+      "notes": "test",
+      "position": {
+        "lat": "43.89789239125797",
+        "lng": "18.457031250000004"
+      }
+    },
+    {
+      "id": "9004",
+      "cityName": "Velika Gorica",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-07-10T17:02:23.080Z",
+      "notes": "",
+      "position": {
+        "lat": "45.72152152227954",
+        "lng": "16.040039062500004"
+      }
+    }
+  ]
+}
